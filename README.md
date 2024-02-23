@@ -1,7 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Ana Tatar</h1>
 <h3 align="center">A passionate and ambitious mathematics-informatics student from Cluj-Napoca, Romania</h3>
-<img align="right" alt="Coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anatatar10&label=Profile%20views&color=0e75b6&style=flat" alt="anatatar10" /> </p>
 
