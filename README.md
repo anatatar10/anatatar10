@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)
+![MasterHead](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)
 <h1 align="center">Hi 👋, I'm Ana Tatar</h1>
 <h3 align="center">A passionate and ambitious mathematics-informatics student from Cluj-Napoca, Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif”>
