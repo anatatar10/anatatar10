@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anatatar10?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/anatatar10?tab=repositories)
 
 - 📫 How to reach me **anasabina.tatar@gmail.com**
 
