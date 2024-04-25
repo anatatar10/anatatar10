@@ -48,6 +48,11 @@
                     💾 Databases
                 </a>
             </li>
+            <li>
+                <a href="https://github.com/anatatar10/Public_Key_Cryptography.git">
+                    🔐 Public-Key Cryptography
+                </a>
+            </li>
         </ul>
     </li>
     <li>:open_book: Semester 3
