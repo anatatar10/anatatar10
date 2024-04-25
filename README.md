@@ -19,7 +19,7 @@
 ### University 📚
 
 <ul>
-    <li>:closed_book: Semester 1
+    <li>:open_book: Semester 1
         <ul>
             <li>
                 <a href=https://github.com/anatatar10/Plane-Passengers>
@@ -28,7 +28,7 @@
             </li>
         </ul>
   </li>
-    <li>:green_book: Semester 2
+    <li>:open_book:	Semester 2
         <ul>
         </ul>
         <ul>
@@ -48,7 +48,7 @@
             </li>
         </ul>
     </li>
-    <li>:orange_book: Semester 3
+    <li>:open_book:	Semester 3
         <ul>
             <li>
                 <a href="">
