@@ -1,13 +1,15 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hello, I'm Ana Tatar</h1>
 <h3 align="center">A passionate and ambitious mathematics-informatics student from Cluj-Napoca, Romania</h3>
 
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" alt="MasterHead" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anatatar10&label=Profile%20views&color=0e75b6&style=flat" alt="anatatar10" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot and React**
 
-- 👨‍💻 All of my projects are available at https://github.com/anatatar10?tab=repositories
+- 👨‍💻 All of my projects are available at [https://github.com/anatatar10?tab=repositories](https://github.com/anatatar10?tab=repositories)
 
 - 📫 How to reach me **anasabina.tatar@gmail.com**
 
@@ -22,25 +24,19 @@
     <li>:open_book: Semester 1
         <ul>
             <li>
-                <a href=https://github.com/anatatar10/Plane-Passengers>
+                <a href="https://github.com/anatatar10/Plane-Passengers">
                     :snake: Algorithms and Programming (AP)
                 </a>
             </li>
         </ul>
-  </li>
-    <li>:open_book:	Semester 2
-        <ul>
-        </ul>
-        <ul>
-        </ul>
+    </li>
+    <li>:open_book: Semester 2
         <ul>
             <li>
                 <a href="">
                     🗂 Data Structures (DS)
                 </a>
             </li>
-        </ul>
-         <ul>
             <li>
                 <a href="https://github.com/anatatar10/Music-App">
                     :computer: Object Oriented Programming (OOP)
@@ -48,15 +44,13 @@
             </li>
         </ul>
     </li>
-    <li>:open_book:	Semester 3
+    <li>:open_book: Semester 3
         <ul>
             <li>
                 <a href="">
                     ⚙ Computer Systems Architecture
                 </a>
             </li>
-        </ul>
-        <ul>
             <li>
                 <a href="">
                     💾 Databases
