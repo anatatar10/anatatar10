@@ -42,7 +42,7 @@
         </ul>
          <ul>
             <li>
-                <a href="">
+                <a href="https://github.com/anatatar10/Music-App">
                     :penguin: Object Oriented Programming (OOP)
                 </a>
             </li>
@@ -58,7 +58,7 @@
         </ul>
         <ul>
             <li>
-                <a href="https://github.com/andrapavel/Algebra-1">
+                <a href="">
                     :bar_chart: Databases
                 </a>
             </li>
