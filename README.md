@@ -26,11 +26,6 @@
                     :snake: Algorithms and Programming (AP)
                 </a>
             </li>
-            <li>
-                <a href="">
-                    :heavy_plus_sign: Calculus 1: Calculus on R
-                </a>
-            </li>
         </ul>
   </li>
     <li>:green_book: Semester 2
