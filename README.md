@@ -40,12 +40,21 @@
         <ul>
             <li>
                 <a href="">
-                    ⚙ Computer Systems Architecture
+                    🛠️ Computer Systems Architecture
                 </a>
             </li>
             <li>
                 <a href="">
                     💾 Databases
+                </a>
+            </li>
+        </ul>
+    </li>
+    <li>:open_book: Semester 3
+        <ul>
+            <li>
+                <a href="">
+                    🛠️ Operating Systems
                 </a>
             </li>
         </ul>
