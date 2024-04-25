@@ -43,7 +43,7 @@
          <ul>
             <li>
                 <a href="https://github.com/anatatar10/Music-App">
-                    :penguin: Object Oriented Programming (OOP)
+                    :computer: Object Oriented Programming (OOP)
                 </a>
             </li>
         </ul>
