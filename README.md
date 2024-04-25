@@ -52,14 +52,14 @@
         <ul>
             <li>
                 <a href="">
-                    :paperclip: Computer Systems Architecture
+                    ⚙ Computer Systems Architecture
                 </a>
             </li>
         </ul>
         <ul>
             <li>
                 <a href="">
-                    :bar_chart: Databases
+                    💾 Databases
                 </a>
             </li>
         </ul>
