@@ -53,7 +53,7 @@
     <li>:open_book: Semester 3
         <ul>
             <li>
-                <a href="">
+                <a href="https://github.com/anatatar10/Opeating_Systems.git">
                     ⚙️ Operating Systems
                 </a>
             </li>
