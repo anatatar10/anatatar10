@@ -16,7 +16,7 @@
     <li>:open_book: Semester 1
         <ul>
             <li>
-                <a href="https://github.com/anatatar10/Plane-Passengers">
+                <a href="https://github.com/anatatar10/Plane-Passengers](https://github.com/anatatar10/Algorithms_And_Programming.git">
                     :snake: Algorithms and Programming (AP)
                 </a>
             </li>
