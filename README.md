@@ -55,7 +55,7 @@
             </li>
         </ul>
     </li>
-    <li>:open_book: Semester 3
+    <li>:open_book: Semester 4
         <ul>
             <li>
                 <a href="https://github.com/anatatar10/Opeating_Systems.git">
