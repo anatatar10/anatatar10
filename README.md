@@ -54,7 +54,7 @@
         <ul>
             <li>
                 <a href="">
-                    🛠️ Operating Systems
+                    ⚙️ Operating Systems
                 </a>
             </li>
         </ul>
