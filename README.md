@@ -36,7 +36,7 @@
         <ul>
             <li>
                 <a href="">
-                    :date: Data Structures (DS)
+                    🗂 Data Structures (DS)
                 </a>
             </li>
         </ul>
