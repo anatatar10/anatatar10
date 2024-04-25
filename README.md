@@ -63,13 +63,6 @@
                 </a>
             </li>
         </ul>
-        <ul>
-            <li>
-                <a href="https://github.com/andrapavel/Algebra-1">
-                    :gun: Differential Equations
-                </a>
-            </li>
-        </ul>
     </li>
 </ul>
 
