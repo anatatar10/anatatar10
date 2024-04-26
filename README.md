@@ -40,7 +40,7 @@
         <ul>
             <li>
                 <a href="https://github.com/anatatar10/Advanced-Programming-Methods.git">
-                    ☕♨ Advanced Programming Methods
+                    ☕ Advanced Programming Methods
                 </a>
             </li>
             <li>
