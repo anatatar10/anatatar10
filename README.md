@@ -30,7 +30,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/anatatar10/Music-App">
+                <a href="https://github.com/anatatar10/Object-Oriented-Programming.git">
                     :computer: Object Oriented Programming (OOP)
                 </a>
             </li>
