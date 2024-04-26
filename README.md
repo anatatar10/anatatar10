@@ -25,7 +25,7 @@
     <li>:open_book: Semester 2
         <ul>
             <li>
-                <a href="">
+                <a href="https://github.com/anatatar10/Data-Structures.git">
                     🗂 Data Structures (DS)
                 </a>
             </li>
