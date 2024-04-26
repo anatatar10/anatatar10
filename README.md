@@ -39,6 +39,11 @@
     <li>:open_book: Semester 3
         <ul>
             <li>
+                <a href="https://github.com/anatatar10/Advanced-Programming-Methods.git">
+                    🛠☕♨ Advanced Programming Methods
+                </a>
+            </li>
+            <li>
                 <a href="">
                     🛠️ Computer Systems Architecture
                 </a>
