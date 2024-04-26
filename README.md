@@ -44,7 +44,7 @@
                 </a>
             </li>
             <li>
-                <a href="">
+                <a href="https://github.com/anatatar10/Computer-Systems-Arhitecture.git">
                     🛠️ Computer Systems Architecture
                 </a>
             </li>
