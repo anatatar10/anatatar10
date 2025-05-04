@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anatatar10&label=Profile%20views&color=0e75b6&style=flat" alt="anatatar10" /> 
 
-- 🌱 I’m currently learning **Spring Boot and Angular**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anatatar10?tab=repositories](https://github.com/anatatar10?tab=repositories)
 
