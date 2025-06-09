@@ -74,6 +74,15 @@
             </li>
         </ul>
     </li>
+    <li>:open_book: Semester 5
+        <ul>
+            <li>
+                <a href="https://github.com/anatatar10/Opeating_Systems.git">
+                    🧮 Formal Languages and Compiler Design
+                </a>
+            </li>
+        </ul>
+    </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
