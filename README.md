@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I'm Ana Tatar</h1>
-<h3 align="center">Cybersecurity Engineer Working Student, and a passionate and ambitious mathematics-informatics student about AI from Cluj-Napoca, Romania</h3>
+<h2 align="center">Cybersecurity Engineer Working Student, and passionate about AI </h2>
+<h2 align="center">Mathematics and Computer Science student @UBB </h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anatatar10&label=Profile%20views&color=0e75b6&style=flat" alt="anatatar10" /> 
 
