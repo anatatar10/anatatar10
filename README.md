@@ -1,11 +1,9 @@
 <h1 align="center">Hello, I'm Ana Tatar</h1>
-<h2 align="center">Cybersecurity Engineer, passionate about AI </h2>
+<h2 align="center">DevOps Engineer, passionate about AI </h2>
 <h2 align="center">Cybersecurity student @UBB </h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anatatar10&label=Profile%20views&color=0e75b6&style=flat" alt="anatatar10" /> 
-
-- 🌱 I'm currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anatatar10?tab=repositories](https://github.com/anatatar10?tab=repositories)
 
