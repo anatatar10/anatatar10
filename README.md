@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ana Tatar</h1>
-<h2 align="center">DevOps Engineer, passionate about AI </h2>
+<h2 align="center">DevOps Engineer, passionate about Cybersecurity and AI </h2>
 <h2 align="center">Cybersecurity student @UBB </h2>
 
 
